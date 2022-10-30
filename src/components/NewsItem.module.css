@@ -1,0 +1,19 @@
+.newsapp {
+  display: flex;
+  justify-content: center;
+}
+
+.newsitem {
+  width: 500px;
+  padding: 20px;
+  border: 1px solid;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.newsimg {
+  width: 100%;
+}
